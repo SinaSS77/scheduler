@@ -15,7 +15,6 @@ const formatSpots = function(remainingSpots) {
 };
 
 export default function DayListItem(props) {
-
   const classes = classNames("day-list__item",
     {
       "day-list__item--selected": props.selected,
