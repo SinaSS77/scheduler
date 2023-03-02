@@ -55,7 +55,7 @@ npm run storybook
 
 ## Final Product
 
-!["A Selected Day And Appointments"](https://github.com/SinaSS77/tinyapp/blob/main/docs/Login_page.png)
-!["Adding An Appointment"](https://github.com/SinaSS77/tinyapp/blob/main/docs/Submited_URLs_page.png)
-!["Delete An Appointment"](https://github.com/SinaSS77/tinyapp/blob/main/docs/tinyURLs_page.png)
-!["Error Handling"](https://github.com/SinaSS77/tinyapp/blob/main/docs/tinyURLs_page.png)
+!["A Selected Day And Appointments"](https://github.com/SinaSS77/scheduler/blob/master/docs/Basic%20day.png)
+!["Adding An Appointment"](https://github.com/SinaSS77/scheduler/blob/master/docs/Add%20an%20appointment.png)
+!["Delete An Appointment"](https://github.com/SinaSS77/scheduler/blob/master/docs/Delete.png)
+!["Error Handling"](https://github.com/SinaSS77/scheduler/blob/master/docs/Error.png)
